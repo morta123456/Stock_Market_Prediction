@@ -34,7 +34,7 @@ This project provides an analysis and description of the stock market, including
 - The XGBoost model achieved an **RMSE of 0.021**, indicating strong predictive performance and minimal error between actual and predicted stock prices.
 
 ## 🧑‍💻 Author
-**Mortadha Ferchichi
+**Mortadha Ferchichi**
 - 📧 ferchichii.mortadha@gmail.com
 - 🌐 https://github.com/morta123456
 
